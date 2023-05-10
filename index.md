@@ -263,7 +263,7 @@ special instructions.
 {% if online == "false" %}
   We are committed to making this workshop
   accessible to everybody. Unfortunately, the elevator in our building is broken and it will take until July to fix it.
-  Please contact us at info@esciencecenter.nl if you cannot use the staircase.
+  Please contact us at training@esciencecenter.nl if you cannot use the staircase.
 </p>
 
 <p>
